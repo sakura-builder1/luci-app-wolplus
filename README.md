@@ -92,6 +92,8 @@ make -j$(nproc)
 
 ## 📄 License
 
+<img width="2197" height="1265" alt="image" src="https://github.com/user-attachments/assets/fc2c1099-7b40-48e9-81bc-40fd22161c1d" />
+
 Apache-2.0
 
 沿用原版协议。原作者 [@sundaqiang](https://github.com/sundaqiang/openwrt-packages)，
